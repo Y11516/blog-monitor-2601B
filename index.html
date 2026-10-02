@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>班级博客监控面板</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background-color: #0f1115;
+            color: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            padding: 60px 24px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            -webkit-font-smoothing: antialiased;
+        }
+        .header { width: 100%; max-width: 1200px; margin-bottom: 48px; text-align: center; }
+        .header h1 { font-size: 2rem; font-weight: 600; letter-spacing: 1px; color: #f3f4f6; margin-bottom: 8px; }
+        .header p { color: #9ca3af; font-size: 0.9rem; }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            width: 100%;
+            max-width: 1200px;
+        }
+
+        .card {
+            text-decoration: none;
+            color: inherit;
+            background-color: #1a1d24;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            border-radius: 16px;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            background-color: #1c2028;
+            border-color: rgba(59, 130, 246, 0.3);
+            box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.5);
+        }
+
+        /* 未填写博客的同学，显示弱化 */
+        .card.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .card.disabled:hover {
+            transform: none;
+            border-color: rgba(255, 255, 255, 0.06);
+            box-shadow: none;
+            background-color: #1a1d24;
+        }
+
+        .card .arrow {
+            position: absolute;
+            top: 24px;
+            right: 24px;
+            font-size: 1rem;
+            color: #4b5563;
+            transition: all 0.3s;
+        }
+        .card:hover .arrow {
+            color: #3b82f6;
+            transform: translate(2px, -2px);
+        }
+        .card.disabled .arrow { display: none; }
+
+        .card .name { font-size: 1.05rem; font-weight: 500; color: #e5e7eb; margin-bottom: 20px; }
+        .card .count { font-size: 3.5rem; font-weight: 700; color: #ffffff; line-height: 1; margin-bottom: 4px; letter-spacing: -1px; font-variant-numeric: tabular-nums; }
+        .card .count-unit { font-size: 1rem; font-weight: 400; color: #6b7280; margin-left: 4px; }
+        .card .repo { font-size: 0.75rem; color: #6b7280; margin-bottom: 24px; word-break: break-all; }
+        .card .updated { margin-top: auto; font-size: 0.7rem; color: #4b5563; border-top: 1px solid rgba(255, 255, 255, 0.04); padding-top: 12px; }
+
+        .loading { grid-column: 1 / -1; text-align: center; color: #6b7280; padding: 40px; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>班级博客监控面板</h1>
+        <p id="last-update">正在获取最新数据...</p>
+    </div>
+
+    <div class="grid" id="blog-grid">
+        <div class="loading">数据加载中...</div>
+    </div>
+
+    <script>
+        async function loadDashboard() {
+            try {
+                const response = await fetch('data.json');
+                const data = await response.json();
+                const grid = document.getElementById('blog-grid');
+                
+                grid.innerHTML = '';
+                
+                data.blogs.forEach(blog => {
+                    const card = document.createElement(blog.url ? 'a' : 'div');
+                    card.className = blog.url ? 'card' : 'card disabled';
+                    
+                    if (blog.url) {
+                        card.href = blog.url;
+                        card.target = '_blank';
+                    }
+                    
+                    card.innerHTML = `
+                        <div class="arrow">↗</div>
+                        <div class="name">${blog.name}</div>
+                        <div class="count">${blog.count}<span class="count-unit">篇</span></div>
+                        <div class="repo">${blog.repo}</div>
+                        <div class="updated">最后更新: ${blog.updated_at}</div>
+                    `;
+                    grid.appendChild(card);
+                });
+                
+                document.getElementById('last-update').textContent = `数据最后更新于: ${data.last_updated}`;
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                document.getElementById('last-update').textContent = '数据加载失败，请检查 data.json 是否存在。';
+            }
+        }
+        loadDashboard();
+    </script>
+</body>
+</html>
