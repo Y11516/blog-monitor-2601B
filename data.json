@@ -1,8 +1,26 @@
 {
   "blogs": [
     {
+      "name": "李晓峰",
+      "repo": "yes-uisi/lxf",
+      "url": "https://yes-uisi.github.io/lxf",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
       "name": "郭梓文",
       "repo": "gz2008/task01",
+      "url": "https://gz2008.github.io/task01/",
       "stats": {
         "Bugku": 30,
         "CTFHub": 59,
@@ -19,6 +37,7 @@
     {
       "name": "刘璧瑞",
       "repo": "12128848/12128848.github.io",
+      "url": "https://12128848.github.io",
       "stats": {
         "Bugku": 32,
         "CTFHub": 0,
@@ -27,14 +46,15 @@
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
-        "RCE-Labs": 1,
+        "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 33
+      "total": 32
     },
     {
       "name": "周润祥",
       "repo": "zrx-wyx/zrx-wyx.github.io",
+      "url": "https://zrx-wyx.github.io",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -51,6 +71,7 @@
     {
       "name": "闫凯峰",
       "repo": "yankaifeng70-bot/yankaifeng70-bot.github.io",
+      "url": "https://yankaifeng70-bot.github.io",
       "stats": {
         "Bugku": 2,
         "CTFHub": 0,
@@ -67,6 +88,7 @@
     {
       "name": "刘欣赢",
       "repo": "eclair-tracy/eclair-tracy.github.io",
+      "url": "http://Eclair-Tracy.github.io",
       "stats": {
         "Bugku": 31,
         "CTFHub": 51,
@@ -83,25 +105,27 @@
     {
       "name": "何芊宏",
       "repo": "heqianhong1114/myblog",
+      "url": "https://heqianhong1114.github.io/myblog/",
       "stats": {
         "Bugku": 32,
-        "CTFHub": 73,
+        "CTFHub": 14,
         "Pikachu": 43,
         "SQLi-Labs": 17,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
-        "RCE-Labs": 1,
+        "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 166
+      "total": 106
     },
     {
       "name": "刘家怡",
       "repo": "gysbfff/gysbfff.github.io",
+      "url": "http://gysbfff.github.io",
       "stats": {
         "Bugku": 30,
-        "CTFHub": 52,
+        "CTFHub": 51,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -110,11 +134,12 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 82
+      "total": 81
     },
     {
       "name": "路博雄",
       "repo": "goldfish1232123/goldfish1232123.github.io",
+      "url": "https://goldfish1232123.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -123,14 +148,15 @@
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
-        "RCE-Labs": 2,
+        "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 2
+      "total": 0
     },
     {
       "name": "宋疏桐",
-      "repo": "未填写",
+      "repo": "song-86-ui/song-86-ui.github.io",
+      "url": "https://song-86-ui.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -147,6 +173,7 @@
     {
       "name": "贺佳琪",
       "repo": "cecilia-scintilla/cecilia-scintilla.github.io",
+      "url": "https://cecilia-scintilla.github.io/",
       "stats": {
         "Bugku": 30,
         "CTFHub": 52,
@@ -163,6 +190,7 @@
     {
       "name": "赵睿轩",
       "repo": "zxy-wx-007/zxy-wx-007.github.io",
+      "url": "https://Zxy-wx-007.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -179,6 +207,7 @@
     {
       "name": "童杰瑞",
       "repo": "rabit222/rabit222.github.io",
+      "url": "https://rabit222.github.io/",
       "stats": {
         "Bugku": 34,
         "CTFHub": 6,
@@ -194,7 +223,8 @@
     },
     {
       "name": "张宇晗",
-      "repo": "zhangyuhan1214/zhangyuhan1214.github.io",
+      "repo": "zhangyuhan1214/zhangyuhan.github.io",
+      "url": "https://zhangyuhan1214.github.io/zhangyuhan.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -211,22 +241,24 @@
     {
       "name": "魏紫钰",
       "repo": "Y11516/Y11516.github.io",
+      "url": "https://Y11516.github.io",
       "stats": {
         "Bugku": 58,
         "CTFHub": 60,
         "Pikachu": 45,
-        "SQLi-Labs": 67,
-        "Upload-Labs": 15,
+        "SQLi-Labs": 5,
+        "Upload-Labs": 18,
         "DVWA": 28,
         "Burp-Labs": 3,
-        "RCE-Labs": 39,
-        "单点靶场": 1
+        "RCE-Labs": 38,
+        "单点靶场": 10
       },
-      "total": 316
+      "total": 265
     },
     {
       "name": "佟奕轩",
       "repo": "12eternity31/12eternity31.github.io",
+      "url": "https://12eternity31.github.io/",
       "stats": {
         "Bugku": 30,
         "CTFHub": 0,
@@ -235,14 +267,15 @@
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
-        "RCE-Labs": 2,
+        "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 32
+      "total": 30
     },
     {
       "name": "王嘉宝",
       "repo": "wangjiabao711815/wangjiabao711815.github.io",
+      "url": "https://wangjiabao711815.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -259,6 +292,7 @@
     {
       "name": "周璟",
       "repo": "novaisntnova/novaisntnova.github.io",
+      "url": "https://novaisntnova.github.io/#/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -275,6 +309,7 @@
     {
       "name": "张奕菲",
       "repo": "Makerzyf/Makerzyf.github.io",
+      "url": "https://Makerzyf.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -291,6 +326,7 @@
     {
       "name": "李梦涵",
       "repo": "adelinecui/adelinecui.github.io",
+      "url": "https://adelinecui.github.io/",
       "stats": {
         "Bugku": 13,
         "CTFHub": 4,
@@ -299,14 +335,15 @@
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
-        "RCE-Labs": 1,
+        "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 18
+      "total": 17
     },
     {
       "name": "艾小杭",
       "repo": "aixiaohang/aixiaohang.github.io",
+      "url": "https://aixiaohang.github.io/",
       "stats": {
         "Bugku": 5,
         "CTFHub": 0,
@@ -323,6 +360,7 @@
     {
       "name": "王冠壹",
       "repo": "wgy0828/wgy0828",
+      "url": "https://wgy0828.github.io/wgy0828/",
       "stats": {
         "Bugku": 22,
         "CTFHub": 0,
@@ -339,6 +377,7 @@
     {
       "name": "王博昱",
       "repo": "wby071115/wby071115.github.io",
+      "url": "https://wby071115.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -355,6 +394,7 @@
     {
       "name": "李昊阳",
       "repo": "02057/02057.github.io",
+      "url": "https://02057.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -371,6 +411,7 @@
     {
       "name": "陈禹含",
       "repo": "girwoft/girwoft.github.io",
+      "url": "https://girwoft.github.io/",
       "stats": {
         "Bugku": 1,
         "CTFHub": 0,
@@ -387,6 +428,7 @@
     {
       "name": "王允恒",
       "repo": "buu-yun/buu-yun.github.io",
+      "url": "https://buu-yun.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -403,6 +445,7 @@
     {
       "name": "彭紫宸",
       "repo": "pzc615156/pzc615156.github.io",
+      "url": "https://pzc615156.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -419,6 +462,7 @@
     {
       "name": "王鹏绮",
       "repo": "wpq-coder/pengqi.github.io",
+      "url": "https://wpq-coder.github.io/pengqi.github.io/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -435,6 +479,7 @@
     {
       "name": "邓博元",
       "repo": "buu2026sec078k/buu2026sec078k.github.io",
+      "url": "https://buu2026sec078k.github.io/",
       "stats": {
         "Bugku": 26,
         "CTFHub": 26,
@@ -451,6 +496,7 @@
     {
       "name": "孙旌博",
       "repo": "xysjb1-create/xysjb1",
+      "url": "https://xysjb1-create.github.io/xysjb1/",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -467,6 +513,7 @@
     {
       "name": "王远鹏",
       "repo": "xiadie174/xiadie-s-",
+      "url": "https://xiadie174.github.io/xiadie-s-/",
       "stats": {
         "Bugku": 1,
         "CTFHub": 0,
@@ -482,7 +529,8 @@
     },
     {
       "name": "黄森豪",
-      "repo": "未填写",
+      "repo": "sen3-oil/sen3-oil.github.io",
+      "url": "https://sen3-oil.github.io",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -499,6 +547,7 @@
     {
       "name": "张绍勇",
       "repo": "zhshy-chi/zhshy-chi.github.io",
+      "url": "https://zhshy-chi.github.io",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -515,6 +564,7 @@
     {
       "name": "孙家诚",
       "repo": "eternity33313/eternity33313.github.io",
+      "url": "https://eternity33313.github.io",
       "stats": {
         "Bugku": 0,
         "CTFHub": 0,
@@ -529,5 +579,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-10-24 09:58:27"
+  "last_updated": "2026-10-24 10:01:04"
 }
