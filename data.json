@@ -87,14 +87,14 @@
         "Bugku": 32,
         "CTFHub": 73,
         "Pikachu": 43,
-        "SQLi-Labs": 16,
+        "SQLi-Labs": 17,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 1,
         "单点靶场": 0
       },
-      "total": 165
+      "total": 166
     },
     {
       "name": "刘家怡",
@@ -529,5 +529,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-10-24 09:32:24"
+  "last_updated": "2026-10-24 09:55:03"
 }
