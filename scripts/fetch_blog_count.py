@@ -18,7 +18,7 @@ TARGETS_CONFIG = {
 
 # --- 全班同学配置（已根据最新截图补全所有 url 字段） ---
 BLOGS_CONFIG = [
-    {"name": "李晓峰", "repo": "yes-uisi/lxf", "url": "https://yes-uisi.github.io/lxf", "branch": "main"}, # 截图中未看到1号，保留之前的
+    
     {"name": "郭梓文", "repo": "gz2008/task01", "url": "https://gz2008.github.io/task01/", "branch": "main"},
     {"name": "刘璧瑞", "repo": "12128848/12128848.github.io", "url": "https://12128848.github.io", "branch": "main"},
     {"name": "周润祥", "repo": "zrx-wyx/zrx-wyx.github.io", "url": "https://zrx-wyx.github.io", "branch": "main"},
