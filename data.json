@@ -1,22 +1,6 @@
 {
   "blogs": [
-    {
-      "name": "李晓峰",
-      "repo": "yes-uisi/lxf",
-      "url": "https://yes-uisi.github.io/lxf",
-      "stats": {
-        "Bugku": 0,
-        "CTFHub": 0,
-        "Pikachu": 0,
-        "SQLi-Labs": 0,
-        "Upload-Labs": 0,
-        "DVWA": 0,
-        "Burp-Labs": 0,
-        "RCE-Labs": 0,
-        "单点靶场": 0
-      },
-      "total": 0
-    },
+    
     {
       "name": "郭梓文",
       "repo": "gz2008/task01",
