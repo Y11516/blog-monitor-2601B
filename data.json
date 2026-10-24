@@ -1,0 +1,533 @@
+{
+  "blogs": [
+    {
+      "name": "郭梓文",
+      "repo": "gz2008/task01",
+      "stats": {
+        "Bugku": 30,
+        "CTFHub": 59,
+        "Pikachu": 18,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 107
+    },
+    {
+      "name": "刘璧瑞",
+      "repo": "12128848/12128848.github.io",
+      "stats": {
+        "Bugku": 32,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 1,
+        "单点靶场": 0
+      },
+      "total": 33
+    },
+    {
+      "name": "周润祥",
+      "repo": "zrx-wyx/zrx-wyx.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "闫凯峰",
+      "repo": "yankaifeng70-bot/yankaifeng70-bot.github.io",
+      "stats": {
+        "Bugku": 2,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 2
+    },
+    {
+      "name": "刘欣赢",
+      "repo": "eclair-tracy/eclair-tracy.github.io",
+      "stats": {
+        "Bugku": 31,
+        "CTFHub": 51,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 82
+    },
+    {
+      "name": "何芊宏",
+      "repo": "heqianhong1114/myblog",
+      "stats": {
+        "Bugku": 32,
+        "CTFHub": 73,
+        "Pikachu": 43,
+        "SQLi-Labs": 16,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 1,
+        "单点靶场": 0
+      },
+      "total": 165
+    },
+    {
+      "name": "刘家怡",
+      "repo": "gysbfff/gysbfff.github.io",
+      "stats": {
+        "Bugku": 30,
+        "CTFHub": 52,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 82
+    },
+    {
+      "name": "路博雄",
+      "repo": "goldfish1232123/goldfish1232123.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 2,
+        "单点靶场": 0
+      },
+      "total": 2
+    },
+    {
+      "name": "宋疏桐",
+      "repo": "未填写",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "贺佳琪",
+      "repo": "cecilia-scintilla/cecilia-scintilla.github.io",
+      "stats": {
+        "Bugku": 30,
+        "CTFHub": 52,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 82
+    },
+    {
+      "name": "赵睿轩",
+      "repo": "zxy-wx-007/zxy-wx-007.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "童杰瑞",
+      "repo": "rabit222/rabit222.github.io",
+      "stats": {
+        "Bugku": 34,
+        "CTFHub": 6,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 40
+    },
+    {
+      "name": "张宇晗",
+      "repo": "zhangyuhan1214/zhangyuhan1214.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "魏紫钰",
+      "repo": "Y11516/Y11516.github.io",
+      "stats": {
+        "Bugku": 58,
+        "CTFHub": 60,
+        "Pikachu": 45,
+        "SQLi-Labs": 67,
+        "Upload-Labs": 15,
+        "DVWA": 28,
+        "Burp-Labs": 3,
+        "RCE-Labs": 39,
+        "单点靶场": 1
+      },
+      "total": 316
+    },
+    {
+      "name": "佟奕轩",
+      "repo": "12eternity31/12eternity31.github.io",
+      "stats": {
+        "Bugku": 30,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 2,
+        "单点靶场": 0
+      },
+      "total": 32
+    },
+    {
+      "name": "王嘉宝",
+      "repo": "wangjiabao711815/wangjiabao711815.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "周璟",
+      "repo": "novaisntnova/novaisntnova.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "张奕菲",
+      "repo": "Makerzyf/Makerzyf.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "李梦涵",
+      "repo": "adelinecui/adelinecui.github.io",
+      "stats": {
+        "Bugku": 13,
+        "CTFHub": 4,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 1,
+        "单点靶场": 0
+      },
+      "total": 18
+    },
+    {
+      "name": "艾小杭",
+      "repo": "aixiaohang/aixiaohang.github.io",
+      "stats": {
+        "Bugku": 5,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 5
+    },
+    {
+      "name": "王冠壹",
+      "repo": "wgy0828/wgy0828",
+      "stats": {
+        "Bugku": 22,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 22
+    },
+    {
+      "name": "王博昱",
+      "repo": "wby071115/wby071115.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "李昊阳",
+      "repo": "02057/02057.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "陈禹含",
+      "repo": "girwoft/girwoft.github.io",
+      "stats": {
+        "Bugku": 1,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 1
+    },
+    {
+      "name": "王允恒",
+      "repo": "buu-yun/buu-yun.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "彭紫宸",
+      "repo": "pzc615156/pzc615156.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "王鹏绮",
+      "repo": "wpq-coder/pengqi.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "邓博元",
+      "repo": "buu2026sec078k/buu2026sec078k.github.io",
+      "stats": {
+        "Bugku": 26,
+        "CTFHub": 26,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 52
+    },
+    {
+      "name": "孙旌博",
+      "repo": "xysjb1-create/xysjb1",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "王远鹏",
+      "repo": "xiadie174/xiadie-s-",
+      "stats": {
+        "Bugku": 1,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 1
+    },
+    {
+      "name": "黄森豪",
+      "repo": "未填写",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "张绍勇",
+      "repo": "zhshy-chi/zhshy-chi.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    },
+    {
+      "name": "孙家诚",
+      "repo": "eternity33313/eternity33313.github.io",
+      "stats": {
+        "Bugku": 0,
+        "CTFHub": 0,
+        "Pikachu": 0,
+        "SQLi-Labs": 0,
+        "Upload-Labs": 0,
+        "DVWA": 0,
+        "Burp-Labs": 0,
+        "RCE-Labs": 0,
+        "单点靶场": 0
+      },
+      "total": 0
+    }
+  ],
+  "last_updated": "2026-10-24 09:15:00"
+}
