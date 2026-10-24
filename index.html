@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>全班靶场进度矩阵</title>
+    <title>战队萌新预备 监控大屏</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -89,6 +89,7 @@
             top: 0;
         }
 
+        /* 姓名列特殊处理 */
         td:first-child, th:first-child {
             text-align: left;
             font-weight: bold;
@@ -99,6 +100,7 @@
             min-width: 100px;
         }
 
+        /* 姓名超链接样式 */
         .name-link {
             color: #e6edf3;
             text-decoration: none;
@@ -106,7 +108,7 @@
             transition: all 0.2s;
         }
         .name-link:hover {
-            color: #58a6ff;
+            color: #58a6ff; /* 鼠标悬浮变蓝 */
             text-decoration: underline;
         }
         .name-no-link {
@@ -144,7 +146,7 @@
 <body>
 
     <div class="header-area">
-        <h1>全班靶场监控矩阵</h1>
+        <h1>战队萌新预备 监控大屏</h1>
         <div class="tip">💡 点击表格中的姓名可直接跳转至对应博客</div>
     </div>
 
@@ -205,12 +207,13 @@
                 data.blogs.forEach(blog => {
                     const tr = document.createElement('tr');
                     
+                    // 姓名列：判断是否有博客链接
                     const nameTd = document.createElement('td');
                     if (blog.url) {
                         const link = document.createElement('a');
                         link.className = 'name-link';
                         link.href = blog.url;
-                        link.target = '_blank';
+                        link.target = '_blank'; 
                         link.textContent = blog.name;
                         nameTd.appendChild(link);
                     } else {
