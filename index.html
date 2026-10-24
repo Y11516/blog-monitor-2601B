@@ -181,7 +181,7 @@
     <script>
         async function loadData() {
             try {
-                const response = await fetch('data.json');
+                const response = await fetch('data.json?v=' + new Date().getTime());
                 const data = await response.json();
                 
                 const headerRow = document.getElementById('table-header');
