@@ -7,7 +7,7 @@
       "stats": {
         "Bugku": 30,
         "CTFHub": 59,
-        "Pikachu": 18,
+        "Pikachu": 46,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -15,7 +15,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 107
+      "total": 135
     },
     {
       "name": "刘璧瑞",
@@ -75,7 +75,7 @@
       "stats": {
         "Bugku": 31,
         "CTFHub": 51,
-        "Pikachu": 0,
+        "Pikachu": 5,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -83,7 +83,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 82
+      "total": 87
     },
     {
       "name": "何芊宏",
@@ -109,7 +109,7 @@
       "stats": {
         "Bugku": 30,
         "CTFHub": 51,
-        "Pikachu": 0,
+        "Pikachu": 11,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -117,7 +117,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 81
+      "total": 92
     },
     {
       "name": "路博雄",
@@ -160,7 +160,7 @@
       "stats": {
         "Bugku": 30,
         "CTFHub": 52,
-        "Pikachu": 0,
+        "Pikachu": 2,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -168,7 +168,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 82
+      "total": 84
     },
     {
       "name": "赵睿轩",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-10-24 10:12:44"
+  "last_updated": "2026-10-25 04:05:54"
 }
