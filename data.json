@@ -75,7 +75,7 @@
       "stats": {
         "Bugku": 31,
         "CTFHub": 51,
-        "Pikachu": 5,
+        "Pikachu": 16,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -83,7 +83,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 87
+      "total": 98
     },
     {
       "name": "何芊宏",
@@ -93,14 +93,14 @@
         "Bugku": 32,
         "CTFHub": 14,
         "Pikachu": 43,
-        "SQLi-Labs": 17,
+        "SQLi-Labs": 27,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 106
+      "total": 116
     },
     {
       "name": "刘家怡",
@@ -159,8 +159,8 @@
       "url": "https://cecilia-scintilla.github.io/",
       "stats": {
         "Bugku": 30,
-        "CTFHub": 52,
-        "Pikachu": 2,
+        "CTFHub": 51,
+        "Pikachu": 8,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -168,7 +168,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 84
+      "total": 89
     },
     {
       "name": "赵睿轩",
@@ -465,7 +465,7 @@
       "url": "https://buu2026sec078k.github.io/",
       "stats": {
         "Bugku": 26,
-        "CTFHub": 26,
+        "CTFHub": 33,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -474,7 +474,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 52
+      "total": 59
     },
     {
       "name": "孙旌博",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-10-25 04:05:54"
+  "last_updated": "2026-10-26 04:09:58"
 }
