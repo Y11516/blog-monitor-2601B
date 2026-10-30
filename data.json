@@ -9,13 +9,13 @@
         "CTFHub": 59,
         "Pikachu": 46,
         "SQLi-Labs": 0,
-        "Upload-Labs": 7,
+        "Upload-Labs": 10,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 142
+      "total": 145
     },
     {
       "name": "刘璧瑞",
@@ -25,14 +25,14 @@
         "Bugku": 32,
         "CTFHub": 1,
         "Pikachu": 0,
-        "SQLi-Labs": 0,
+        "SQLi-Labs": 1,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 33
+      "total": 34
     },
     {
       "name": "周润祥",
@@ -75,7 +75,7 @@
       "stats": {
         "Bugku": 31,
         "CTFHub": 51,
-        "Pikachu": 18,
+        "Pikachu": 32,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -83,7 +83,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 100
+      "total": 114
     },
     {
       "name": "何芊宏",
@@ -93,14 +93,14 @@
         "Bugku": 32,
         "CTFHub": 14,
         "Pikachu": 43,
-        "SQLi-Labs": 67,
+        "SQLi-Labs": 69,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 156
+      "total": 158
     },
     {
       "name": "刘家怡",
@@ -109,7 +109,7 @@
       "stats": {
         "Bugku": 30,
         "CTFHub": 51,
-        "Pikachu": 15,
+        "Pikachu": 20,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -117,7 +117,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 96
+      "total": 101
     },
     {
       "name": "路博雄",
@@ -160,7 +160,7 @@
       "stats": {
         "Bugku": 30,
         "CTFHub": 51,
-        "Pikachu": 27,
+        "Pikachu": 45,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -168,7 +168,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 108
+      "total": 126
     },
     {
       "name": "赵睿轩",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-10-29 05:13:08"
+  "last_updated": "2026-10-30 05:12:38"
 }
