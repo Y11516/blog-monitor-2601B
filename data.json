@@ -23,7 +23,7 @@
       "url": "https://12128848.github.io",
       "stats": {
         "Bugku": 32,
-        "CTFHub": 1,
+        "CTFHub": 11,
         "Pikachu": 0,
         "SQLi-Labs": 1,
         "Upload-Labs": 0,
@@ -32,7 +32,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 34
+      "total": 44
     },
     {
       "name": "周润祥",
@@ -76,14 +76,14 @@
         "Bugku": 31,
         "CTFHub": 51,
         "Pikachu": 44,
-        "SQLi-Labs": 0,
+        "SQLi-Labs": 1,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 126
+      "total": 127
     },
     {
       "name": "何芊宏",
@@ -109,7 +109,7 @@
       "stats": {
         "Bugku": 30,
         "CTFHub": 51,
-        "Pikachu": 33,
+        "Pikachu": 46,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -117,7 +117,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 114
+      "total": 127
     },
     {
       "name": "路博雄",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-10-31 04:56:57"
+  "last_updated": "2026-11-01 05:26:53"
 }
