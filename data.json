@@ -465,7 +465,7 @@
       "url": "https://buu2026sec078k.github.io/",
       "stats": {
         "Bugku": 26,
-        "CTFHub": 36,
+        "CTFHub": 37,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -474,7 +474,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 62
+      "total": 63
     },
     {
       "name": "孙旌博",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-01 05:26:53"
+  "last_updated": "2026-11-02 05:25:13"
 }
