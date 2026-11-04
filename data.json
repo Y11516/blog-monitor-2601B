@@ -24,7 +24,7 @@
       "stats": {
         "Bugku": 32,
         "CTFHub": 11,
-        "Pikachu": 2,
+        "Pikachu": 17,
         "SQLi-Labs": 1,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -32,7 +32,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 46
+      "total": 61
     },
     {
       "name": "周润祥",
@@ -94,13 +94,13 @@
         "CTFHub": 14,
         "Pikachu": 43,
         "SQLi-Labs": 69,
-        "Upload-Labs": 13,
+        "Upload-Labs": 21,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 171
+      "total": 179
     },
     {
       "name": "刘家怡",
@@ -481,7 +481,7 @@
       "repo": "xysjb1-create/xysjb1",
       "url": "https://xysjb1-create.github.io/xysjb1/",
       "stats": {
-        "Bugku": 0,
+        "Bugku": 7,
         "CTFHub": 0,
         "Pikachu": 0,
         "SQLi-Labs": 0,
@@ -491,7 +491,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 0
+      "total": 7
     },
     {
       "name": "王远鹏",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-03 06:04:12"
+  "last_updated": "2026-11-04 05:43:00"
 }
