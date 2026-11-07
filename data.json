@@ -24,7 +24,7 @@
       "stats": {
         "Bugku": 32,
         "CTFHub": 11,
-        "Pikachu": 17,
+        "Pikachu": 43,
         "SQLi-Labs": 1,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -32,7 +32,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 61
+      "total": 87
     },
     {
       "name": "周润祥",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-06 05:56:46"
+  "last_updated": "2026-11-07 05:28:35"
 }
