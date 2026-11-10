@@ -8,14 +8,14 @@
         "Bugku": 30,
         "CTFHub": 59,
         "Pikachu": 46,
-        "SQLi-Labs": 0,
+        "SQLi-Labs": 2,
         "Upload-Labs": 21,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 156
+      "total": 158
     },
     {
       "name": "刘璧瑞",
@@ -25,14 +25,14 @@
         "Bugku": 32,
         "CTFHub": 11,
         "Pikachu": 43,
-        "SQLi-Labs": 1,
+        "SQLi-Labs": 11,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 87
+      "total": 97
     },
     {
       "name": "周润祥",
@@ -161,14 +161,14 @@
         "Bugku": 30,
         "CTFHub": 51,
         "Pikachu": 45,
-        "SQLi-Labs": 0,
+        "SQLi-Labs": 7,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 126
+      "total": 133
     },
     {
       "name": "赵睿轩",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-09 05:39:45"
+  "last_updated": "2026-11-10 06:49:02"
 }
