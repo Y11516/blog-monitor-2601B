@@ -193,7 +193,7 @@
       "url": "https://rabit222.github.io/",
       "stats": {
         "Bugku": 34,
-        "CTFHub": 6,
+        "CTFHub": 8,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -202,7 +202,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 40
+      "total": 42
     },
     {
       "name": "张宇晗",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-11 05:37:11"
+  "last_updated": "2026-11-12 06:42:28"
 }
