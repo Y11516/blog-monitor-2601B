@@ -25,14 +25,14 @@
         "Bugku": 32,
         "CTFHub": 11,
         "Pikachu": 43,
-        "SQLi-Labs": 21,
-        "Upload-Labs": 0,
+        "SQLi-Labs": 69,
+        "Upload-Labs": 21,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 107
+      "total": 176
     },
     {
       "name": "周润祥",
@@ -193,7 +193,7 @@
       "url": "https://rabit222.github.io/",
       "stats": {
         "Bugku": 34,
-        "CTFHub": 11,
+        "CTFHub": 12,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -202,7 +202,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 45
+      "total": 46
     },
     {
       "name": "张宇晗",
@@ -532,7 +532,7 @@
       "repo": "zhshy-chi/zhshy-chi.github.io",
       "url": "https://zhshy-chi.github.io",
       "stats": {
-        "Bugku": 0,
+        "Bugku": 30,
         "CTFHub": 0,
         "Pikachu": 0,
         "SQLi-Labs": 0,
@@ -542,7 +542,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 0
+      "total": 30
     },
     {
       "name": "孙家诚",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-13 05:58:35"
+  "last_updated": "2026-11-14 05:47:40"
 }
