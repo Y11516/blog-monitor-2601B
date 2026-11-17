@@ -161,14 +161,14 @@
         "Bugku": 30,
         "CTFHub": 51,
         "Pikachu": 45,
-        "SQLi-Labs": 7,
+        "SQLi-Labs": 13,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 133
+      "total": 139
     },
     {
       "name": "赵睿轩",
@@ -193,7 +193,7 @@
       "url": "https://rabit222.github.io/",
       "stats": {
         "Bugku": 34,
-        "CTFHub": 12,
+        "CTFHub": 13,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -202,7 +202,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 46
+      "total": 47
     },
     {
       "name": "张宇晗",
@@ -244,7 +244,7 @@
       "url": "https://12eternity31.github.io/",
       "stats": {
         "Bugku": 30,
-        "CTFHub": 0,
+        "CTFHub": 50,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -253,7 +253,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 30
+      "total": 80
     },
     {
       "name": "王嘉宝",
@@ -314,14 +314,14 @@
         "Bugku": 13,
         "CTFHub": 4,
         "Pikachu": 1,
-        "SQLi-Labs": 0,
+        "SQLi-Labs": 1,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 18
+      "total": 19
     },
     {
       "name": "艾小杭",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-16 05:48:24"
+  "last_updated": "2026-11-17 07:25:54"
 }
