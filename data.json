@@ -193,7 +193,7 @@
       "url": "https://rabit222.github.io/",
       "stats": {
         "Bugku": 34,
-        "CTFHub": 13,
+        "CTFHub": 15,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -202,7 +202,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 47
+      "total": 49
     },
     {
       "name": "张宇晗",
@@ -245,7 +245,7 @@
       "stats": {
         "Bugku": 30,
         "CTFHub": 50,
-        "Pikachu": 0,
+        "Pikachu": 44,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
         "DVWA": 0,
@@ -253,7 +253,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 80
+      "total": 124
     },
     {
       "name": "王嘉宝",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-17 07:25:54"
+  "last_updated": "2026-11-18 06:50:02"
 }
