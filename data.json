@@ -8,14 +8,14 @@
         "Bugku": 30,
         "CTFHub": 59,
         "Pikachu": 46,
-        "SQLi-Labs": 2,
+        "SQLi-Labs": 70,
         "Upload-Labs": 21,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 158
+      "total": 226
     },
     {
       "name": "刘璧瑞",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-18 06:50:02"
+  "last_updated": "2026-11-19 06:51:39"
 }
