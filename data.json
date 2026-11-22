@@ -277,7 +277,7 @@
       "repo": "novaisntnova/novaisntnova.github.io",
       "url": "https://novaisntnova.github.io/#/",
       "stats": {
-        "Bugku": 8,
+        "Bugku": 11,
         "CTFHub": 0,
         "Pikachu": 0,
         "SQLi-Labs": 0,
@@ -287,7 +287,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 8
+      "total": 11
     },
     {
       "name": "张奕菲",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-21 06:32:45"
+  "last_updated": "2026-11-22 06:00:26"
 }
