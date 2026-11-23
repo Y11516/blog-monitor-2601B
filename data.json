@@ -193,7 +193,7 @@
       "url": "https://rabit222.github.io/",
       "stats": {
         "Bugku": 34,
-        "CTFHub": 15,
+        "CTFHub": 17,
         "Pikachu": 0,
         "SQLi-Labs": 0,
         "Upload-Labs": 0,
@@ -202,7 +202,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 49
+      "total": 51
     },
     {
       "name": "张宇晗",
@@ -277,7 +277,7 @@
       "repo": "novaisntnova/novaisntnova.github.io",
       "url": "https://novaisntnova.github.io/#/",
       "stats": {
-        "Bugku": 11,
+        "Bugku": 12,
         "CTFHub": 0,
         "Pikachu": 0,
         "SQLi-Labs": 0,
@@ -287,7 +287,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 11
+      "total": 12
     },
     {
       "name": "张奕菲",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-22 06:00:26"
+  "last_updated": "2026-11-23 06:53:19"
 }
