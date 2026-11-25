@@ -161,14 +161,14 @@
         "Bugku": 30,
         "CTFHub": 51,
         "Pikachu": 45,
-        "SQLi-Labs": 19,
+        "SQLi-Labs": 39,
         "Upload-Labs": 0,
         "DVWA": 0,
         "Burp-Labs": 0,
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 145
+      "total": 165
     },
     {
       "name": "赵睿轩",
@@ -481,7 +481,7 @@
       "repo": "xysjb1-create/xysjb1",
       "url": "https://xysjb1-create.github.io/xysjb1/",
       "stats": {
-        "Bugku": 7,
+        "Bugku": 32,
         "CTFHub": 0,
         "Pikachu": 0,
         "SQLi-Labs": 0,
@@ -491,7 +491,7 @@
         "RCE-Labs": 0,
         "单点靶场": 0
       },
-      "total": 7
+      "total": 32
     },
     {
       "name": "王远鹏",
@@ -562,5 +562,5 @@
       "total": 0
     }
   ],
-  "last_updated": "2026-11-24 09:20:00"
+  "last_updated": "2026-11-25 07:53:39"
 }
